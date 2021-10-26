@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6173b19eb233d6f9662a94ee"
+  },
+  "name": "UPS Bifásica 6KVA 2",
+  "description": "UPS bifásica capacidad de 6 a 10 Kva, brindan una protección para aplicaciones en racks, permite la selección de características del UPS como el voltaje de entrada, el de salida, activar o desactivar el reinicio automático y otros parámetros.",
+  "price": 190000,
+  "stateProduct": "No Disponible",
+  "city": "Bogota",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173b20cb233d6f9662a94f0"
+  },
+  "name": "UPS Trifásica 15KVA",
+  "description": "El UPS trifásico Liebert constituye una solución flexible, eficiente para ahorrar espacio en su red, el UPS trifásico Lebert, mantiene protegida su red al mismo tiempo que ahorra en costos y espacio del centro de datos.",
+  "price": 3999900,
+  "stateProduct": "Disponible",
+  "city": "Bogota",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173b231b233d6f9662a94f2"
+  },
+  "name": "JABRA710 Video Conferencia",
+  "description": "Solución de video conferencia inteligente Plug and Play. Cámara panorámica única en el mundo con vista de 180° y zoom inteligente, resolución 4K, 3 lentes cada uno con 13 megapíxeles, Zoom electrónico con desplazamiento e incli-nación. Micrófono portátil profesional omnidireccional con cobertura de 360°, voz HD se conecta a través de puerto USB, también cuenta con conexión inalámbrica a través de bluetooth.",
+  "price": 139000,
+  "stateProduct": "No Disponible",
+  "city": "Cartagena",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173b24eb233d6f9662a94f4"
+  },
+  "name": "STUDIO Video Conferencia",
+  "description": "La solución todo en uno Studio USB tiene area visual de 120° , resolución 4K ultra HD, seguimiento de interlocutor y encuadre automatico, dos pre-ajustes de cámara ofrecen una calidad de video extraordinaria y una colaboración cara a cara. Arreglo de seis micrófonos con cancelación de Eco Acústico y altavoz optimizado.",
+  "price": 150000,
+  "stateProduct": "Disponible",
+  "city": "Medellin",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173b26ab233d6f9662a94f6"
+  },
+  "name": "MEET UP Video Conferencia",
+  "description": "La solución meet up tiene un campo visual de 120° capaz de captar toda la sala, componentes ópticos 4K ultra HD y tres preajustes de cámara que ofrecen una calidad de video extraordinaria y una colaboración cara a cara. Arreglo de Tres micrófonos y altavoz optimizado.",
+  "price": 1200000000,
+  "stateProduct": "Disponible",
+  "city": "Medellin",
+  "money": "COP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173bf45013275f9a2146958"
+  },
+  "name": "UPS Trifásica 10KVA ",
+  "description": "UPS Trifásica capacidad de 10 Kva, brindan una protección para aplicaciones en racks, permite la selección de características del UPS como el voltaje de entrada, el de salida, activar o desactivar el reinicio automático y otros parámetros.",
+  "price": 700000,
+  "stateProduct": "Disponible",
+  "city": "Bogota",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174d64ea2c3a5716aabb92f"
+  },
+  "name": "UPS Monofásica 500 - 3KVA",
+  "description": "UPS entrada monofásica, on –line, capacidad de 500 a 3 Kva, tamaño pequeño y gran capacidad. Este UPS en línea tiene baterías internas, y baterías externas de manera opcional si el Cliente lo requiere, cuentan con bypass de mantenimiento integrado, diseñado para usarse en rack o en torre.",
+  "price": 189900,
+  "stateProduct": "Disponible",
+  "city": "Bucaramanga",
+  "money": "USD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174d6a9a2c3a5716aabb931"
+  },
+  "name": "UPS Monofásica 500 - 3KVA",
+  "description": "UPS entrada monofásica, on –line, capacidad de 500 a 3 Kva, tamaño pequeño y gran capacidad. Este UPS en línea tiene baterías internas, y baterías externas de manera opcional si el Cliente lo requiere, cuentan con bypass de mantenimiento integrado, diseñado para usarse en rack o en torre.",
+  "price": 130000,
+  "stateProduct": "Disponible",
+  "city": "Bucaramanga",
+  "money": "USD",
+  "__v": 0
+}]
